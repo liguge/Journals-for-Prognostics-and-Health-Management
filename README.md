@@ -172,7 +172,7 @@
 | **[Science China Technological Sciences](https://link.springer.com/journal/11431)** | **4.6** | **2** | | | **材料研究学会(T1);岩石力学与工程学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=DGNYZ5)** |
 | **[Annals of Nuclear Energy](https://www.sciencedirect.com/journal/annals-of-nuclear-energy)** | **1.9** | **3** | **2** |  | **核学会(T2)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=0pWO6p)** |
 | **[Mathematical Biosciences and Engineering](https://www.aimspress.com/journal/mbe)** | **2.6** | **4** |  | |  | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=r78WWp)** |
-| [Journal of the Taiwan Institute of Chemical Engineers](https://www.sciencedirect.com/journal/journal-of-the-taiwan-institute-of-chemical-engineers) | **5.7** | **3** | | | | **No** | **[ablesci](https://www.ablesci.com/journal/detail?id=p3bXVr)** |
+| **[Journal of the Taiwan Institute of Chemical Engineers](https://www.sciencedirect.com/journal/journal-of-the-taiwan-institute-of-chemical-engineers)** | **5.7** | **3** | | | | **No** | **[ablesci](https://www.ablesci.com/journal/detail?id=p3bXVr)** |
 
 
 
