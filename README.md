@@ -190,6 +190,8 @@
 | **[Nuclear Engineering and Technology](https://www.sciencedirect.com/journal/nuclear-engineering-and-technology)** | **2.6** | **3** | | | | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=pWV3Nr)** |
 | **[Nondestructive Testing and Evaluation](https://www.tandfonline.com/journals/gnte20)** | **3** | **3** | | | | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=5gM0dr)** |
 | **[IEEE Transactions on Control Systems Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87)** | **4.9** | **2** | | | **自动化学会(A);指挥与控制学会(T1);声学学会(T3)** | **NO** | **[ablesci](https://www.ablesci.com/journal/detail?id=pLaVj5)** |
+| **[International Conference on Pattern Recognition](https://dblp.uni-trier.de/db/conf/icpr/index.html)** |  | **(会议)** | | **C/B** |  |  |  |
+| **[Journal of Computational Design and Engineering](https://academic.oup.com/jcde?login=true)** | **4.8** | **2** | |  | **图学学会(T2)** | **YES** | **[ablesci](https://www.ablesci.com/journal/detail?id=pWGm3p)** |
 
 
 
